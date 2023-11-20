@@ -1,0 +1,79 @@
+{
+    "1700467017999657:640680": {
+        "IFileManager": {
+            "path": "Files/File_1700467017999657_640680.pvr"
+        }
+    },
+    "1700467018002857:640681": {
+        "IResourceController": {
+            "name": "Black & Orange Modern Business Quotes Instagram Post (1)",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700467018008099:640682",
+            "fileId": "1700467017999657:640680",
+            "originalId": "1700467018008670:640687",
+            "publicId": "1700467018066527:640705",
+            "expected_hash": "3ee8204238796a51eadadcc3f2b5d136",
+            "additional": {
+                "originHash": "8f01a5e5251b0b0d9b7ab17234db0126"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1700467018008099:640682",
+            "name": "Files/File_1700467017999657_640680.png",
+            "flags": 1
+        }
+    },
+    "1700467018008099:640682": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "61653f94bd48d61e39cf9b623e931997"
+                    },
+                    "v": "1700467020343975:641312"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "970752",
+                "compressedSize": "21811",
+                "extension": "png",
+                "originalRAM": "7741440",
+                "originalSize": "30904",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1700467018039575:640696"
+        }
+    },
+    "1700467018008670:640687": {
+        "IFileManager": {
+            "path": "Files/File_1700467018008670_640687.png"
+        }
+    },
+    "1700467018039575:640696": {
+        "IFileManager": {
+            "path": "Files/File_1700467018039575_640696.png"
+        }
+    },
+    "1700467018066527:640705": {
+        "IResourceController": {
+            "public": {
+                "path": "Black & Orange Modern Business Quotes Instagram Post (1).png",
+                "hash": "8f01a5e5251b0b0d9b7ab17234db0126"
+            }
+        }
+    },
+    "1700467020343975:641312": {
+        "IFileManager": {
+            "path": "Files/File_1700467020343975_641312.pvr"
+        }
+    }
+}
